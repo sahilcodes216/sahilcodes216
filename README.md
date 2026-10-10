@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋 About Me:
 I'm a B.Tech CSE (AI & ML) student at Amity University Jharkhand, exploring the world of Artificial Intelligence, Machine Learning, and programming.<br><br>I'm continuously learning, building small projects, and improving my skills one step at a time.<br>
 
 # 💻 Tech Stack:
