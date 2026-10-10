@@ -6,7 +6,7 @@ I'm a Student, at Amity University Jharkhand.<br>At the course B.TECH CSE (AI & 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahilcodes216&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sahilcodes216&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=sahilcodes216&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilcodes216&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
