@@ -60,9 +60,9 @@ DSA          ████░░░░░░   Learning
 
 <br>
 
-One or two lines about what it does and why you built it.
+This was my first project pushed to my GitHub when I am learning python programming language. <br>This single repo contain two projects first is Guess the number, Second is Snake, Water and Gun game.
 
-🔗 **[View on GitHub](https://github.com/sahilcodes216)**
+🔗 **[View on GitHub](https://github.com/sahilcodes216/SWG_game)**
 
 </details>
 
