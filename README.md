@@ -90,24 +90,6 @@ One or two lines about what it does and why you built it.
 
 <br>
 
-## 🗺️ Roadmap
-
-```text
- ✅ Programming basics (C, C++, Python)
-  │
- ✅ First small projects
-  │
- 🔄 Data Structures & Algorithms          ← I am here
-  │
- ⬜ ML libraries (NumPy, Pandas, Scikit-learn)
-  │
- ⬜ End-to-end ML project, deployed
-  │
- ⬜ Open source contributions
-```
-
-<br>
-
 ## 📬 Let's Connect
 
 | | |
