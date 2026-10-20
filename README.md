@@ -16,7 +16,6 @@
 ## 🖥️ whoami
 
 ```bash
-sahil@github:~$ whoami
 
   👤 Name        Sahil Verma
   🎓 Degree      B.Tech CSE (AI & ML)
@@ -27,7 +26,6 @@ sahil@github:~$ whoami
   💬 Ask me      Python, C/C++, HTML, getting started with AI
   🤝 Open to     Collaborating on beginner-friendly AI/ML & web projects
 
-sahil@github:~$ _
 ```
 
 <br>
