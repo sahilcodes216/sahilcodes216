@@ -88,6 +88,12 @@ This third project I made beacuse many students in college facing problem to sol
 
 <br>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
 ## 📬 Let's Connect
 
 | | |
