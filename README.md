@@ -67,7 +67,7 @@ This was my first project pushed to my GitHub when I am learning python programm
 </details>
 
 <details>
-<summary><b>📂 Project Two</b> &nbsp;·&nbsp; <code>HTML</code> <code>Bootstrap</code></summary>
+<summary><b>📂 Project Two</b> &nbsp;·&nbsp; <code>Mediapipe</code> <code>OpenCV</code></summary>
 
 <br>
 
@@ -78,7 +78,7 @@ The Second one is my AeroDrawCV project. I built it because, it was so trending 
 </details>
 
 <details>
-<summary><b>📂 Project Three</b> &nbsp;·&nbsp; <code>C++</code></summary>
+<summary><b>📂 Project Three</b> &nbsp;·&nbsp; <code>HTML</code> <code>CSS</code> <code>Javascript</code></summary>
 
 <br>
 
