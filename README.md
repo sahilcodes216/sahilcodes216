@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./sahil-banner.gif" alt="Sahil Verma - Aspiring AI & ML Engineer" width="100%"/>
+<img src="./sahil-banner(1).gif" alt="Sahil Verma - Aspiring AI & ML Engineer" width="100%"/>
 
 **[LinkedIn](https://www.linkedin.com/in/sahil-verma-b40b38385)** · **[X](https://x.com/SahilVerma549)** · **[Email](mailto:sahilvermai5948@gmail.com)** · **[GitHub](https://github.com/sahilcodes216)**
 
