@@ -71,9 +71,9 @@ One or two lines about what it does and why you built it.
 
 <br>
 
-One or two lines about what it does and why you built it.
+I built it because, it was trending on my LinkedIn Feed. So, I also get excited to build it.
 
-🔗 **[View on GitHub](https://github.com/sahilcodes216)**
+🔗 **[View on GitHub](https://github.com/sahilcodes216/AeroDrawCV)**
 
 </details>
 
