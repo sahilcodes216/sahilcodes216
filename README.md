@@ -82,9 +82,9 @@ The Second one is my AeroDrawCV project. I built it because, it was so trending 
 
 <br>
 
-One or two lines about what it does and why you built it.
+This third project I made beacuse many students in college facing problem to solve infix and post & prefix convertion.<br> So, made a web solution for that. You should check it out👇.
 
-🔗 **[View on GitHub](https://github.com/sahilcodes216)**
+🔗 **[View on GitHub](https://github.com/sahilcodes216/Post_Fixer)**
 
 </details>
 
