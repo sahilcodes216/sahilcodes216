@@ -71,7 +71,7 @@ One or two lines about what it does and why you built it.
 
 <br>
 
-This is my AeroDrawCV project. I built it because, it was so trending on my LinkedIn Feed. So, I also get excited to build it.<br>So, I learn mediapipe & OpenCV little bit just to build it.
+The Second one is my AeroDrawCV project. I built it because, it was so trending on my LinkedIn Feed. So, I also get excited to build it.<br>So, I learn mediapipe & OpenCV little bit just to build it.
 
 🔗 **[View on GitHub](https://github.com/sahilcodes216/AeroDrawCV)**
 
