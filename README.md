@@ -51,7 +51,7 @@ DSA          ████░░░░░░   Learning
 
 <br>
 
-## 🚀 Projects
+## 🚀 Star Projects
 
 <details open>
 <summary><b>📂 Project One</b> &nbsp;·&nbsp; <code>Python</code></summary>
